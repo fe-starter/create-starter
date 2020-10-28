@@ -25,9 +25,10 @@
     "boxen": "^4.2.0",
     "cac": "^6.6.1",
     "cli-spinner": "^0.2.10",
+    "enquirer": "^2.3.6",
     "fs-extra": "^9.0.1",
-    "inquirer": "^7.3.3",
     "marked": "^1.2.0",
+    "semver": "^7.3.2",
     "simple-git": "^2.21.0"
   },
   "publishConfig": {
