@@ -45,11 +45,11 @@ cli
           }
           if (token.type === 'list') {
             const items = token.items.map(({ text }) => {
-              const [name, link, description] = text.match(/\[.+\]|\(.+\)|.+/g)
+              const [name, link, description] = text.match(/\[.+?\]|\(.+?\)|.+/g)
               return {
                 name: name.replace(/\[|\]/g, '').trim(),
                 link: link.replace(/\(|\)/g, '').trim() + '.git',
-                description: description.replace(/-/g, '').trim()
+                description: description.replace(/-/, '').trim()
               }
             })
             result[current] = items
