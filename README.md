@@ -63,11 +63,6 @@ $ npx create-starter init
 
 ```
 
-## Todos
-
-- [ ] Support templates cache & update
-- [ ] Support analysis package.json & replace
-
 ## Contributing
 
 1. **Fork** it on GitHub!
