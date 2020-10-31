@@ -1,12 +1,8 @@
 # create-starter
 
-[![Build Status][travis-img]][travis-url]
-[![Coverage Status][codecov-img]][codecov-url]
 [![NPM Downloads][downloads-img]][downloads-url]
 [![NPM Version][version-img]][version-url]
 [![License][license-img]][license-url]
-[![Dependency Status][dependency-img]][dependency-url]
-[![devDependency Status][devdependency-img]][devdependency-url]
 [![Code Style][style-img]][style-url]
 
 > Awesome starter.
@@ -79,20 +75,11 @@ $ npx create-starter init
 [MIT](LICENSE) &copy; [LEE](https://wiolem.github.com)
 
 
-
-[travis-img]: https://img.shields.io/travis/wiolem/create-starter
-[travis-url]: https://travis-ci.org/wiolem/create-starter
-[codecov-img]: https://img.shields.io/codecov/c/github/wiolem/create-starter
-[codecov-url]: https://codecov.io/gh/wiolem/create-starter
 [downloads-img]: https://img.shields.io/npm/dm/create-starter
 [downloads-url]: https://npmjs.org/package/create-starter
 [version-img]: https://img.shields.io/npm/v/create-starter
 [version-url]: https://npmjs.org/package/create-starter
 [license-img]: https://img.shields.io/github/license/wiolem/create-starter
 [license-url]: https://github.com/wiolem/create-starter/blob/master/LICENSE
-[dependency-img]: https://img.shields.io/david/wiolem/create-starter
-[dependency-url]: https://david-dm.org/wiolem/create-starter
-[devdependency-img]: https://img.shields.io/david/dev/wiolem/create-starter
-[devdependency-url]: https://david-dm.org/wiolem/create-starter?type=dev
 [style-img]: https://img.shields.io/badge/code_style-standard-brightgreen
 [style-url]: https://standardjs.com
