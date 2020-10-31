@@ -80,6 +80,6 @@ $ npx create-starter init
 [version-img]: https://img.shields.io/npm/v/create-starter
 [version-url]: https://npmjs.org/package/create-starter
 [license-img]: https://img.shields.io/github/license/wiolem/create-starter
-[license-url]: https://github.com/wiolem/create-starter/blob/master/LICENSE
+[license-url]: https://github.com/fe-starter/create-starter/blob/master/LICENSE
 [style-img]: https://img.shields.io/badge/code_style-standard-brightgreen
 [style-url]: https://standardjs.com
