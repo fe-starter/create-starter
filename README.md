@@ -30,21 +30,27 @@ $ yarn global add create-starter
 ## Usage
 
 ```shell
-$ npm init starter init
-npx: installed 63 in 4.701s
+$ npx create-starter init
 
-   ┌───────────────────────────────────────────┐    
-   │                                           │    
-   │   Welcome use starter to init your app.   │    
-   │                                           │    
-   └───────────────────────────────────────────┘    
+   ┌───────────────────────────────────────────┐
+   │                                           │
+   │   Welcome use starter to init your app.   │
+   │                                           │
+   └───────────────────────────────────────────┘
 
-? Please select the app type Vue 3
-? Please select an app vite-tailwind-starter
-? Please input the app name vite-tailwind-starter   
-? Please input the app description my-vite-app      
-? Please input the app version 1.0.1
-? Please input the app author Lee
+√ Please pick the App type · Vue 3
+√ Please pick one app · vite-tailwind-starter        
+? Fill out the fields in package.json » 100% completed
+ {
+   "name": "my-demo",
+   "description": "demo",
+   "version": "1.0.1",
+   "homepage": "https://github.com/wiolem/my-demo",   
+   "author": "wiolem (https://github.com/wiolem)",    
+   "repository": "https://github.com/wiolem/my-demo", 
+   "license": "MIT"
+ }
+ Clone processing .. \
 
    ┌───────────────────────────┐
    │                           │
@@ -52,7 +58,7 @@ npx: installed 63 in 4.701s
    │                           │
    └───────────────────────────┘
 
- cd ./vite-tailwind-starter
+ cd ./my-demo
  npm install
 
 ```
