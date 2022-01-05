@@ -1,6 +1,6 @@
 {
   "name": "create-starter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "create-starter",
   "main": "index.js",
   "bin": "bin/create-starter.js",
@@ -10,9 +10,9 @@
   ],
   "repository": "https://github.com/fe-starter/create-starter",
   "author": {
-    "name": "Lee",
-    "email": "wiolem@hotmail.com",
-    "url": "https://wiolem.github.com"
+    "name": "Art.XD",
+    "email": "xartd@hotmail.com",
+    "url": "https://xartd.github.com"
   },
   "files": [
     "bin",
