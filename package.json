@@ -19,7 +19,13 @@
     "lib"
   ],
   "scripts": {
-    "fix": "standard --fix"
+    "fix": "standard --fix",
+    "change": "beachball change",
+    "check": "beachball check",
+    "beachball:publish": "beachball publish"
+  },
+  "beachball": {
+    "registry": "https://registry.npmjs.org"
   },
   "dependencies": {
     "boxen": "^4.2.0",
@@ -36,6 +42,7 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "beachball": "^2.21.0",
     "standard": "^14.3.4"
   }
 }
