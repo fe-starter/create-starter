@@ -25,7 +25,8 @@
     "beachball:publish": "beachball publish"
   },
   "beachball": {
-    "registry": "https://registry.npmjs.org"
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
   },
   "dependencies": {
     "boxen": "^4.2.0",
