@@ -1,0 +1,20 @@
+{
+  "name": "create-starter",
+  "entries": [
+    {
+      "date": "Wed, 19 Jan 2022 15:34:28 GMT",
+      "tag": "create-starter_v1.0.5",
+      "version": "1.0.5",
+      "comments": {
+        "patch": [
+          {
+            "author": "wiolem@hotmail.com",
+            "package": "create-starter",
+            "commit": "9b12f3d1dc8d62a60ebd4a73e724715384d0883a",
+            "comment": "fix: modify msg"
+          }
+        ]
+      }
+    }
+  ]
+}

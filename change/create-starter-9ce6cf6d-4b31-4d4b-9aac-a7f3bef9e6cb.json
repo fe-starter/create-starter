@@ -1,7 +1,0 @@
-{
-  "type": "patch",
-  "comment": "fix: modify msg",
-  "packageName": "create-starter",
-  "email": "wiolem@hotmail.com",
-  "dependentChangeType": "patch"
-}
